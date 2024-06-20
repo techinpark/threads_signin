@@ -3,9 +3,6 @@ import 'dart:async';
 
 import 'package:flutter/services.dart';
 import 'package:thread_signin/thread_signin.dart';
-import 'package:thread_signin/src/signin_params.dart';
-import 'package:thread_signin/src/signin_response.dart';
-import 'package:thread_signin/src/signin_screen.dart';
 
 void main() {
   runApp(const MyApp());

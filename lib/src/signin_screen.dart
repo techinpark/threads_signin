@@ -137,7 +137,7 @@ class _ThreadSigninScreenState extends State<ThreadSigninScreen> {
     webViewController = c;
     webViewController.loadUrl(
       urlRequest: URLRequest(
-        url: Uri.parse(widget.params.combinedUrl())
+        url: WebUri(widget.params.combinedUrl())
       ),
     );
   }
