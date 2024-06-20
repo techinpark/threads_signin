@@ -1,0 +1,45 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_inappwebview (0.0.1):
+    - Flutter
+    - flutter_inappwebview/Core (= 0.0.1)
+    - OrderedSet (~> 5.0)
+  - flutter_inappwebview/Core (0.0.1):
+    - Flutter
+    - OrderedSet (~> 5.0)
+  - integration_test (0.0.1):
+    - Flutter
+  - OrderedSet (5.0.0)
+  - thread_signin (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_inappwebview (from `.symlinks/plugins/flutter_inappwebview/ios`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - thread_signin (from `.symlinks/plugins/thread_signin/ios`)
+
+SPEC REPOS:
+  trunk:
+    - OrderedSet
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_inappwebview:
+    :path: ".symlinks/plugins/flutter_inappwebview/ios"
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  thread_signin:
+    :path: ".symlinks/plugins/thread_signin/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_inappwebview: 3d32228f1304635e7c028b0d4252937730bbc6cf
+  integration_test: 13825b8a9334a850581300559b8839134b124670
+  OrderedSet: aaeb196f7fef5a9edf55d89760da9176ad40b93c
+  thread_signin: 9b4f52a0769d5b2f95c43ac8915d0efa2ef711c9
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.14.3
