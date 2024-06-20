@@ -1,5 +1,7 @@
 # thread_signin package
 
+[![pub package](https://img.shields.io/pub/v/thread_signin.svg)](https://pub.dev/packages/thread_signin)
+
 Get AccessToken Using Thread API https://pub.dev/packages/thread_signin
 
 ## Getting Started
