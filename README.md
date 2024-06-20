@@ -6,7 +6,7 @@ Get AccessToken Using Thread API https://pub.dev/packages/thread_signin
 
 Add Package dependency 
 ```yaml
-thread_signin: ^1.0.0+1
+thread_signin: ^1.0.0+2
 ```
 
 or 

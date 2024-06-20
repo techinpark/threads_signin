@@ -1,6 +1,6 @@
 name: thread_signin
 description: "The Thread Signin plugin for Flutter. This package is designed to simplify the process of signing in with Thread."
-version: 1.0.0+1
+version: 1.0.0+2
 homepage: https://github.com/techinpark/thread_signin
 
 environment:
